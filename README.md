@@ -1,5 +1,6 @@
 # 📊 MTSS-Early-Warning-System
-![Dashboard Preview](02_Dashboards/dashboard_preview.png)
+![Dashboard Preview](02_Dashboards/02_Dashboards/ANON_MTSS_EWS_25-26.pdf)
+
 Complete data architecture and operational templates for a K-12 Early Warning System (EWS) and Multi-Tiered System of Supports (MTSS) framework.
 
 ## Overview
