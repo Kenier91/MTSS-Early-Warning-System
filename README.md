@@ -8,7 +8,7 @@ This folder contains the complete architecture and operational templates for an 
 Designed for K-12 education leaders, this system bridges the gap between data identification and student intervention. It moves beyond a traditional dashboard by providing a "closed-loop" framework: transforming academic, attendance, and behavior metrics into clear risk classifications, and then routing those insights directly into structured action workbooks for teachers, coaches, and administrators. 
 
 ## ✨ Key System Features
-* **Automated Risk Stratification:** Logic that categorizes students into Tier 1 (On-Track), Tier 2 (At-Risk), and Tier 3 (Immediate Action) based on MAX risk across Academic, Attendance, and Behavior domains.
+* **Automated Risk Stratification:** Logic that categorizes students into Tier 1 (On-Track), Tier 2 (At-Risk), and Tier 3 (Immediate Action) based on MAX risk across Academic, Attendance, and Behavior domains. 
 * **Decision Layer (Visibility):** High-level visual reporting to monitor school-wide trends, tier distributions, and priority statuses.
 * **Action Layer (Operational Workbooks):** Tiered Excel infrastructure allowing seamless data access at the School-Wide, Content Area, Course, and Teacher levels.
 * **Closed-Loop Monitoring (RTI):** Dedicated tracking for interventions to ensure educators can monitor response effectiveness over time.
