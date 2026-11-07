@@ -2,6 +2,9 @@
 
 Complete data architecture and operational templates for a K-12 Early Warning System (EWS) and Multi-Tiered System of Supports (MTSS) framework.
 
+**Author:** Kenier Ramirez, M.Sc. in Data Analytics
+**ORCID:** 0009-0001-9900-2473
+
 ## Overview
 This folder contains the complete architecture and operational templates for an integrated **Early Warning System (EWS)** and **Multi-Tiered System of Supports (MTSS)**. 
 
