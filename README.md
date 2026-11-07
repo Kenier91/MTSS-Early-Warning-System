@@ -48,7 +48,7 @@ All `.xlsx` and `.pdf` files that use the "ANON" naming convention contain sanit
 ## 📬 Contact & Connect
 I am passionate about building solutions that bridge Business Intelligence, Data Analytics, and Education—turning data into actionable insights that drive measurable student impact. 
 
-**LinkedIn:** [Kenier Ramirez](www.linkedin.com/in/kenier-ramirez-9456a725a)
+**LinkedIn:** [Kenier Ramirez](https://linkedin.com/in/kenier-ramirez-9456a725a)
 
 **For research methodology, detailed statistical results, model evaluation, and interpretation, consult the accompanying preprint:**
 
